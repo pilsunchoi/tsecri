@@ -520,6 +520,9 @@ export default function App() {
               <div style={{ textAlign: "center", fontSize: 11, color: COLORS.muted, fontFamily: "'DM Mono', monospace", marginTop: 4 }}>
                 Texas special education enrollment rate (%), 2000–2024
               </div>
+              <div style={{ textAlign: "center", fontSize: 10, color: COLORS.muted, fontFamily: "'DM Mono', monospace", marginTop: 2, opacity: 0.7 }}>
+                Source: TEA PEIMS; DeMatthews, Reyes, Shin & Hart (2025), TexERC Report
+              </div>
             </div>
 
             <div style={{ display: "grid", gridTemplateColumns: "repeat(3, minmax(0, 1fr))", gap: 16, marginBottom: 40 }}>
